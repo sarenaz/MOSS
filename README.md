@@ -16,7 +16,7 @@ The ultimate aim of the MOSS is to make the global science and research open and
 
 - Stage three 
 
-  Invite contributors - translators, researchers, tech developers 
+  Invite contributors - translators, open science experts, digital social science researchers, tech developers 
 
 - Stage four 
 
