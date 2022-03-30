@@ -22,9 +22,9 @@ The ultimate aim of the MOSS is to make the global science and research open and
 
   Develop an open, evolving, incomplete educational platform with Open Research resources 
  
-# Contribution 
+# Contributing 
   
-MOSS welcomes contributions from anyone! If you are passionate about making science open, inclusive, and multilingual, please feel free to reach out to us. 
+MOSS welcomes contributions from anyone! If you are passionate about making science just, equitable, diverse, and inclusive, please feel free to reach out to us. 
 
 At this stage, MOSS needs the volunteers with the knowledge of Central Asian languages and tech developers who could help with the initiation and launch of the online multilingual educational platform. 
  
