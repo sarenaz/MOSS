@@ -20,7 +20,7 @@ The ultimate aim of the MOSS is to make the global science and research open and
 
 - Stage four 
 
-  Develop an open, evolving, incomplete educational platform with Open Research resources 
+  Develop an open, evolving, incomplete educational platform (or Jupyter Book) with Open Research resources 
  
 # Contributing 
   
