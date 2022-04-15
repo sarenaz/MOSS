@@ -6,19 +6,19 @@ The ultimate aim of the MOSS is to make the global science and research open and
 
 ## Phases of Development 
 
-- Phase one: 
+- **Phase one**: 
    
   Create an open database with basic resources on Open Scholarship 
 
-- Phase two: 
+- **Phase two**: 
 
   Categorise the collected resources according to types/topics/relevance 
 
-- Phase three 
+- **Phase three**: 
 
   Invite contributors - translators, open science experts, digital social science researchers, tech developers 
 
-- Phase four 
+- **Phase four**:
 
   Develop an open, evolving educational platform (or Jupyter Book) with Open Scholarhip resources 
  
