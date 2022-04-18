@@ -13,19 +13,19 @@ The ultimate aim of the MOSS is to make the global science open and inclusive of
 
 - **Phase one**: 
    
-  Create an open database with basic resources on Open Scholarship 
+  - [ ] Create an open database with basic resources on Open Scholarship 
 
 - **Phase two**: 
 
-  Categorise the collected resources according to types/topics/relevance 
+  - [ ] Categorise the collected resources according to types/topics/relevance 
 
 - **Phase three**: 
 
-  Invite contributors - translators, open science experts, digital social science researchers, tech developers 
+  - [ ] Invite contributors - translators, open science experts, digital social science researchers, tech developers 
 
 - **Phase four**:
 
-  Develop an open, evolving educational platform (or Jupyter Book) with Open Scholarhip resources 
+  - [ ] Develop an open, evolving educational platform (or Jupyter Book) with Open Scholarhip resources 
  
 # Contributing 
   
