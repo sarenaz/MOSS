@@ -18,6 +18,8 @@ The ultimate aim of the MOSS is to make the global science open and inclusive of
 - **Phase two**: 
 
   - [ ] Categorise the collected resources according to types/topics/relevance 
+  - [ ] Sort out the resources according to relevance 
+  - [ ] Turn the spreadsheet with the selected resources into a searchable table using [sheetsee](http://jlord.us/sheetsee.js/)
 
 - **Phase three**: 
 
@@ -25,7 +27,7 @@ The ultimate aim of the MOSS is to make the global science open and inclusive of
 
 - **Phase four**:
 
-  - [ ] Develop an open, evolving educational platform (or Jupyter Book) with Open Scholarhip resources 
+  - [ ] Develop an open, evolving educational platform (as of now, considering to use: Jupyter Book or Docusaurus, but open for other suggestions) with Open Scholarhip resources 
  
 # Contributing 
   
